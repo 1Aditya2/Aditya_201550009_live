@@ -9,7 +9,7 @@
     height: 100vh;
 }
 .material-symbols-outlined{
-    margin-right: 50px;
+    margin-right: 100px;
     background-color: red;
     color: white;
     width: fit-content;
@@ -37,7 +37,7 @@ ul{
     justify-content: center;
     align-items: center;
     list-style: none;
-    /* margin-right: 205px; */
+    /* margin: 205px; */
 }
 .nav{
     text-transform: uppercase;
